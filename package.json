@@ -1,5 +1,12 @@
 {
   "name": "plainly-tfish",
   "version": "0.1.0",
-  "author.email": "tom@geo.fish"
+  "license": "MIT",
+  "author":{
+    "name": "Tom Fish"
+    "email": "tom@geo.fish"
+  },
+  "config": {
+        "posts_per_page": 5
+    }
 }
